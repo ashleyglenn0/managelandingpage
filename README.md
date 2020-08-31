@@ -1,6 +1,6 @@
 # Frontend Mentor - Manage landing page
 
-![Check out my demo here](./design/desktop-preview.jpg)
+![Check out my demo here](https://ashleyglenn0.github.io/managelandingpage/)
 
 ## Welcome! 👋
 
